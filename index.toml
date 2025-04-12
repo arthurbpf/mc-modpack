@@ -494,3 +494,18 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "ee076e84e2052ccff9ac179298b241fb9f55d82fdef64f2c704d4b37254fe92f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "a6069e50f5f040ca578879297c8be5bb4affc4abeb83438bce51c801f938a564"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c363c5cebefc114a08ca1bd415521554dc5d1ee7ef3843adad4846be548816ec"
+metafile = true
