@@ -1,0 +1,13 @@
+name = "LoveBlock"
+author = "arthur"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "030f000397198cd46f236350ed139594e98605ebb4ad4b02e617aa79baead962"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
